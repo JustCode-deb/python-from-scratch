@@ -8,4 +8,4 @@ weight = float(input("Please insert your weight: "))
 bmi = (weight / (height ** 2))
 
 
-print(int((bmi)))
+print(int(bmi))
